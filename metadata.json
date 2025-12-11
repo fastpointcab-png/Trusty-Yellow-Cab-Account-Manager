@@ -1,0 +1,5 @@
+{
+  "name": "Trusty Yellow Cab Account Manager",
+  "description": "A comprehensive finance tracker for Trusty Yellow Cab allowing drivers to submit daily reports and admins to analyze income, expenses, and insights.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,21 @@
+{
+  "short_name": "TrustyCab",
+  "name": "Trusty Yellow Cab Account Manager",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FAFAFA",
+  "orientation": "portrait"
+}
